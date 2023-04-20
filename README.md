@@ -97,6 +97,7 @@ plt.show()
 
 ### Canny Edge detector output :
 
+![Screenshot 2023-04-20 135607](https://user-images.githubusercontent.com/118889454/233307131-83ecf709-7ced-437f-b74c-29af9be111da.png)
 
 
 
@@ -104,7 +105,7 @@ plt.show()
 ### Display the result of Hough transform :
 
 
-
+![Screenshot 2023-04-20 135955](https://user-images.githubusercontent.com/118889454/233307474-bb0c047b-0453-4ccf-b7bd-8182adfc43ce.png)
 
 
 ## Result:
